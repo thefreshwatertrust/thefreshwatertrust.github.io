@@ -1,4 +1,4 @@
-![The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/images/tft-logo-stacked.png) 
+![The Freshwater Trust](/thefreshwatertrust.pages.io/images/tft-logo-stacked.png) 
 
 # Science & Analytics Team
 
